@@ -1,9 +1,9 @@
 {
-  "version": "3.0",
+  "version": "1.0",
   "url": "",
 
   "pubgm": false,
-  "bgmi": false,
+  "bgmi": true,
   "korea": false,
   "sign_sha256": "d63a2e0a709cf82cbb54a72fe5a046e91e1ec4c591765f4cdf56efce8dbe82fe",
   
