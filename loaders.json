@@ -233,24 +233,6 @@
       "expireSize": 19,
       "textAnchor": "right",
       "expireAnchor": "left"
-    },
-    {
-      "name": "BRUTALEDITION1",
-      "displayName": "BRUTAL EDITION",
-      "apiUrl": "https://api.xvipserver.site/vip/connect",
-      "pinnedKey": "",
-      "espStyle": 1,
-      "counterStyle": 7,
-      "textColor": [255, 255, 0, 255],
-      "expireColor": [0, 255, 255, 255],
-      "textX": 108,
-      "textY": 668,
-      "expireX": 54,
-      "expireY": 668,
-      "textSize": 19,
-      "expireSize": 19,
-      "textAnchor": "right",
-      "expireAnchor": "left"
     }
   ]
 }
