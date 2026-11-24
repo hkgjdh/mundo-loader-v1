@@ -61,7 +61,7 @@
       "pinnedKey": "",
       "espStyle": 1,
       "counterStyle": 7,
-     "textColor": [255, 255, 0, 255],
+      "textColor": [255, 255, 0, 255],
       "expireColor": [0, 255, 0, 255],
       "textX": 0,
       "textY": 120,
@@ -129,7 +129,7 @@
     {
       "name": "BRUTAL",
       "displayName": "Brutal Server",
-      "apiUrl": "https://api.ezkeys.online/Nayak/connect",
+      "apiUrl": "https://api.xvipserver.site/dunecheat/connect",
       "pinnedKey": "",
       "espStyle": 1,
       "counterStyle": 3,
@@ -147,7 +147,7 @@
     {
       "name": "RAGE_ADMIN",
       "displayName": "Rage admin",
-      "apiUrl": "https://api.ragecheat.click/vip/connect",
+      "apiUrl": "https://api.xvipserver.site/dunecheat/connect",
       "pinnedKey": "",
       "espStyle": 1,
       "counterStyle": 1,
@@ -165,7 +165,7 @@
     {
       "name": "JALBAADMIN",
       "displayName": "JALBAADMIN",
-      "apiUrl": "https://api.xvipserver.site/vip/connect",
+      "apiUrl": "https://api.xvipserver.site/dunecheat/connect",
       "pinnedKey": "",
       "espStyle": 1,
       "counterStyle": 7,
@@ -183,7 +183,7 @@
     {
       "name": "TAPATAP",
       "displayName": "INFINITE LOADER",
-      "apiUrl": "https://api.xvipserver.site/vip/connect",
+      "apiUrl": "https://api.xvipserver.site/dunecheat/connect",
       "pinnedKey": "",
       "espStyle": 1,
       "counterStyle": 7,
@@ -201,7 +201,7 @@
     {
       "name": "GLACIERLOADER",
       "displayName": "GLACIER LOADER",
-      "apiUrl": "https://glacier.xpanel.store/connect",
+      "apiUrl": "https://api.xvipserver.site/dunecheat/connect",
       "pinnedKey": "",
       "espStyle": 1,
       "counterStyle": 7,
@@ -219,7 +219,7 @@
     {
       "name": "AdminServerBrutal",
       "displayName": "Admin Server Brutal",
-      "apiUrl": "https://adminbrutal-vip.ai-keys.xyz/get",
+      "apiUrl": "https://api.xvipserver.site/dunecheat/connect",
       "pinnedKey": "",
       "espStyle": 1,
       "counterStyle": 8,
