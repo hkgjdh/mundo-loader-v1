@@ -1,1 +1,1 @@
-2.0|Server is under maintenance.
+3.0|New version available! Please update to continue.
